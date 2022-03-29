@@ -1,6 +1,5 @@
 Microsoft.ZuneMusic
 Microsoft.XboxApp
-Microsoft.Office.OneNote
 Microsoft.Getstarted
 Microsoft.WindowsPhone
 Microsoft.WindowsMaps
@@ -25,7 +24,6 @@ Microsoft.MicrosoftOfficeHub
 Microsoft.MicrosoftSolitaireCollection
 Microsoft.BingWeather
 PricelinePartnerNetwork.Booking.comEMEABigsavingso
-Microsoft.Office.OneNote
 Microsoft.MixedReality.Portal
 C27EB4BA.DropboxOEM
 AD2F1837.myHP
@@ -35,3 +33,9 @@ AD2F1837.HPPrinterControl
 AD2F1837.HPPrivacySettings
 5A894077.McAfeeSecurity
 4DF9E0F8.Netflix
+Clipchamp.Clipchamp
+Microsoft.GamingApp
+Microsoft.GetHelp
+Microsoft.BingNews
+MicrosoftTeams
+Microsoft.Windows.Photos
